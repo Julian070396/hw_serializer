@@ -6,5 +6,5 @@ source 'https://rubygems.org'
 gem 'minitest'
 
 ## Static Analysis
-gem 'rubocop'
 gem 'flog'
+gem 'rubocop'
